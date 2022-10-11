@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 
-rename_files() {
+move_files() {
     dir1=$1/*
 
     dir2=$2
@@ -13,4 +13,4 @@ rename_files() {
     done
 }
 
-rename_files $1 $2
+move_files $1 $2
