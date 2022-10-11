@@ -13,4 +13,4 @@ copy everything in original folder and move copies to new folder
 
 ## Docker process
 
-Use docker to create a docker image of repo and push container to container registry
+Use docker to create a docker image of repo and push container to container registry on Docker Hub
